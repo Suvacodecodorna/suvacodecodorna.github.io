@@ -236,3 +236,9 @@ figcaption {
 .videos {
   text-align: center;
 }
+
+.pdfcentral {
+  display: block; 
+  margin: 0 auto; 
+  text-align: center;
+}
